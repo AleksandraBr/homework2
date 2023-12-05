@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Незабудки",
-    "vendor_code": "111",
+    "vendor_code": "Незабудки",
     "description": "Раздел: цветы",
     "price": 300,
     "img": "https://i.pinimg.com/736x/e3/c8/ce/e3c8cec3826100dca61d544d33646c1a.jpg"
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "title": "Лилии",
-    "vendor_code": "222",
+    "vendor_code": "Лилии",
     "description": "Раздел: цветы",
     "price": 700,
     "img": "https://mykaleidoscope.ru/uploads/posts/2020-08/1596412376_4-p-krasivie-buketi-belikh-lilii-pinterest-6.jpg"
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "title": "Красный кактус",
-    "vendor_code": "333",
+    "vendor_code": "Красный_кактус",
     "description": "Раздел: кактусы",
     "price": 900,
     "img": "https://i.pinimg.com/originals/1d/4d/aa/1d4daaac7d86c50dc1e0e26fef07043e.jpg"
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "title": "Одуванчики",
-    "vendor_code": "444e",
+    "vendor_code": "Одуванчики",
     "description": "Раздел: дикорастущие растения",
     "price": 200,
     "img": "https://mykaleidoscope.ru/uploads/posts/2022-06/1656021603_52-mykaleidoscope-ru-p-buket-iz-oduvanchikov-krasivo-foto-58.jpg"
@@ -34,7 +34,7 @@
   {
     "id": "5",
     "title": "Тюльпаны",
-    "vendor_code": "555e",
+    "vendor_code": "Тюльпаны",
     "description": "Раздел: цветы",
     "price": 600,
     "img": "https://darfix.ru/wp-content/uploads/a/d/b/adb6f52dd53656581f79be8e97cfe14a.jpeg"
@@ -42,7 +42,7 @@
   {
     "id": "6",
     "title": "Белый кактус",
-    "vendor_code": "666e",
+    "vendor_code": "Белый_кактус",
     "description": "Раздел: кактусы",
     "price": 700,
     "img": "https://avatars.mds.yandex.net/get-mpic/4249638/img_id3143908056266415992.jpeg/orig"
@@ -50,7 +50,7 @@
   {
     "id": "7",
     "title": "Гипсофилы",
-    "vendor_code": "777e",
+    "vendor_code": "Гипсофилы",
     "description": "Раздел: цветы",
     "price": 400,
     "img": "https://mykaleidoscope.ru/uploads/posts/2020-08/1596390852_4-p-buketi-iz-gipsofil-pinterest-4.jpg"
@@ -58,7 +58,7 @@
   {
     "id": "8",
     "title": "Георгины",
-    "vendor_code": "888e",
+    "vendor_code": "Георгины",
     "description": "Раздел: цветы",
     "price": 600,
     "img": "https://vsegda-pomnim.com/uploads/posts/2022-04/1649996793_38-vsegda-pomnim-com-p-khrizantemi-georgini-foto-55.jpg"
@@ -66,7 +66,7 @@
   {
     "id": "9",
     "title": "Желтый кактус",
-    "vendor_code": "999e",
+    "vendor_code": "Желтый_кактус",
     "description": "Раздел: кактусы",
     "price": 800,
     "img": "https://krasavica.info/uploads/posts/2022-12/1672318983_krasavica-info-p-kaktus-s-zheltimi-tsvetami-pinterest-1.jpg"
@@ -74,7 +74,7 @@
   {
     "id": "10",
     "title": "Розы",
-    "vendor_code": "101010e",
+    "vendor_code": "Розы",
     "description": "Раздел: цветы",
     "price": 900,
     "img": "http://content2.flowwow-images.com/data/flowers/1000x1000/22/1562066869_66102822.jpg"
@@ -82,7 +82,7 @@
   {
     "id": "11",
     "title": "Ромашки",
-    "vendor_code": "111111e",
+    "vendor_code": "Ромашки",
     "description": "Раздел: дикорастущие растения",
     "price": 300,
     "img": "https://mykaleidoscope.ru/uploads/posts/2022-06/1656100037_65-mykaleidoscope-ru-p-buket-romashek-dlya-lyubimoi-krasivo-foto-65.jpg"
@@ -90,7 +90,7 @@
   {
     "id": "12",
     "title": "Васильки",
-    "vendor_code": "121212e",
+    "vendor_code": "Васильки",
     "description": "Раздел: дикорастущие растения",
     "price": 400,
     "img": "https://klike.net/uploads/posts/2023-03/1677731874_3-93.jpg"
