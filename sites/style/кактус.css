@@ -1,0 +1,20 @@
+body {
+background-image: url("https://phonoteka.org/uploads/posts/2023-03/1680268378_phonoteka-org-p-belo-zelenii-fon-dlya-prezentatsii-foni-vk-1.jpg");
+}
+figure {
+ border: 7px solid #46664d;
+    padding: 10px;
+    display: inline-block;
+    width: 190px;
+    background-color: #fff;
+    margin: 25px;
+    font-size: 15px;
+    font-color: #46664d;
+ }
+ table {
+   width: 900px;
+   height: 500px;
+   }
+  div {
+  text-align: right;
+  }
